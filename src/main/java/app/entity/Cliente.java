@@ -10,7 +10,7 @@ import cronapi.rest.security.CronappSecurity;
 
 
 /**
- * Classe que representa a tabela CLIENTE
+ * Classe que representa a tabela CLIENTE Junior
  * @generated
  */
 @Entity
