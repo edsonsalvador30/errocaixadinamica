@@ -10,7 +10,7 @@ import cronapi.rest.security.CronappSecurity;
 
 
 /**
- * Classe que representa a tabela ESTADO
+ * Classe que representa a tabela ESTADO Edson
  * @generated
  */
 @Entity
